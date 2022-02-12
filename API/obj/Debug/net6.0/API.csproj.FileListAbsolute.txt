@@ -104,3 +104,10 @@ D:\CSharpProjects\DatingApp\API\obj\Debug\net6.0\API.dll
 D:\CSharpProjects\DatingApp\API\obj\Debug\net6.0\ref\API.dll
 D:\CSharpProjects\DatingApp\API\obj\Debug\net6.0\API.pdb
 D:\CSharpProjects\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\CSharpProjects\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CSharpProjects\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CSharpProjects\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CSharpProjects\DatingApp\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CSharpProjects\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CSharpProjects\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CSharpProjects\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
