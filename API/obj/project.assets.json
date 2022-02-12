@@ -1331,11 +1331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#Projects\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "D:\\CSharpProjects\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\C#Projects\\DatingApp\\API\\API.csproj",
+      "projectPath": "D:\\CSharpProjects\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\jigna\\.nuget\\packages\\",
-      "outputPath": "D:\\C#Projects\\DatingApp\\API\\obj\\",
+      "outputPath": "D:\\CSharpProjects\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jigna\\AppData\\Roaming\\NuGet\\NuGet.Config",
