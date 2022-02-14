@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharpProjects\\DatingApp\\API\\API.csproj": {}
+    "D:\\CSharpProjects\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\CSharpProjects\\DatingApp\\API\\API.csproj": {
+    "D:\\CSharpProjects\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharpProjects\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "D:\\CSharpProjects\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\CSharpProjects\\DatingApp\\API\\API.csproj",
+        "projectPath": "D:\\CSharpProjects\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\jigna\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharpProjects\\DatingApp\\API\\obj\\",
+        "outputPath": "D:\\CSharpProjects\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jigna\\AppData\\Roaming\\NuGet\\NuGet.Config",

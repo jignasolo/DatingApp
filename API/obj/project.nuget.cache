@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f/VjebDaaXWiMfuizElJzyKttDo9/jofegIY6Ov57iF2aYWamxJH+AYQJmdlZF0ZJBRB42jl3jTweW0i+kruZg==",
+  "dgSpecHash": "vOr1PSWlDJsNg41hJO8Q0XH3ZGPCQT5/gghoXHxOF4PbXrQz0gaUX41mgQMFizhdqRkGQkqsdadLa0A8zjv6Mw==",
   "success": true,
-  "projectFilePath": "D:\\CSharpProjects\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "D:\\CSharpProjects\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jigna\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\jigna\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
